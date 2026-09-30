@@ -1,0 +1,6 @@
+{
+  "name": "خوشنوش | فروشگاه دمنوش و چای گیاهی طبیعی",
+  "description": "فروشگاه آنلاین دمنوش‌های گیاهی و ارگانیک خوشنوش، برگرفته از دل طبیعت برای آرامش، سلامت و نشاط شما.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
